@@ -1,0 +1,5 @@
+c:\users\tecinfo\documents\visual studio 2012\Projects\sistema_academico\sistema_academico\bin\sistema_academico.dll
+c:\users\tecinfo\documents\visual studio 2012\Projects\sistema_academico\sistema_academico\bin\sistema_academico.pdb
+c:\users\tecinfo\documents\visual studio 2012\Projects\sistema_academico\sistema_academico\obj\Debug\sistema_academico.csprojResolveAssemblyReference.cache
+c:\users\tecinfo\documents\visual studio 2012\Projects\sistema_academico\sistema_academico\obj\Debug\sistema_academico.dll
+c:\users\tecinfo\documents\visual studio 2012\Projects\sistema_academico\sistema_academico\obj\Debug\sistema_academico.pdb
